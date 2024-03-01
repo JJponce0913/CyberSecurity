@@ -1,0 +1,1 @@
+\gobuster.exe dir -u http://10.10.158.225/ -w  common.txt
