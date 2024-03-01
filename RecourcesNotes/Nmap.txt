@@ -1,0 +1,1 @@
+nmap -sV -sC -Pn -oN webapp_basic.txt [webappIP]
