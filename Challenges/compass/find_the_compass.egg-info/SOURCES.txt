@@ -1,0 +1,7 @@
+setup.py
+find_the_compass/__init__.py
+find_the_compass.egg-info/PKG-INFO
+find_the_compass.egg-info/SOURCES.txt
+find_the_compass.egg-info/dependency_links.txt
+find_the_compass.egg-info/requires.txt
+find_the_compass.egg-info/top_level.txt

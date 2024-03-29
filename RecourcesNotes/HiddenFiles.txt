@@ -1,0 +1,2 @@
+#Type this into the file directory search to look for hidden files
+C:\backup\

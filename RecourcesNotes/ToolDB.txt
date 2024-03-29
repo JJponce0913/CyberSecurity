@@ -1,0 +1,10 @@
+Web
+1.Gobuster: is a fast brute-force tool to discover hidden URLs, files, and directories within websites
+2.robots.txt:A robots.txt file tells search engine/web crawlers which URLs the crawler can access on your site.
+
+
+
+Network
+1.Nmap: Searches for open ports
+2.remmina: is a remote desktop tool
+3.BeautifulSoup: a web crawling tool

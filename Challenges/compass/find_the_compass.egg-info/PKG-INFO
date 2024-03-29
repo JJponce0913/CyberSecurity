@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: find_the_compass
+Version: 1.0.0
+Summary: Python app for the compass thiefs
+Author: Mika - @bWlrYQ
+License: CC BY-NC
+Requires-Dist: flask==3.0.0
+Requires-Dist: Flask-SQLAlchemy==3.1.1
