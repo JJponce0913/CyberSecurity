@@ -8,7 +8,8 @@ e=65537
 
 
 # Find factors of the modulus using - https://www.dcode.fr/prime-factors-decomposition
-
+p=1461849912200000206276283741896701133693 
+q=431899300006243611356963607089521499045809
 # compute 
 # Calculate Euler's totient function phi(n)
 phi_n = (p-1)*(q-1)
