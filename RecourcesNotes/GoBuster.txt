@@ -1,1 +1,2 @@
-\gobuster.exe dir -u http://guppy.utctf.live:8725/ -w  common.txt
+must be in the gobuster directory
+gobuster.exe dir -u http://34.146.31.52/ -w  common.txt
